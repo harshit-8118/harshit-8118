@@ -20,12 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit-shukla-079952203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-shukla-079952203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-shukla-079952203" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="harshit-shukla-079952203" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_it_8118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_it_8118" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hharshit8118" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hharshit8118" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harsh_it_8118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harsh_it_8118" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hharshit8118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hharshit8118" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hharshit8118/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hharshit8118/profile" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/harsh_it_8118" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="harsh_it_8118" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hharshit8118" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="hharshit8118" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hharshit8118/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="hharshit8118/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
