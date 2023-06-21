@@ -5,14 +5,14 @@
   and Algorithms.
 </h3>
 
-- 🔭 I’m currently working on **React projects**
-- 🌱 I’m currently learning **Django**
-- 👯 I’m looking to collaborate on **MERN**
-- 👨‍💻 All of my projects are available at [update_it_soon](update_it_soon)
+- 🔭 I’m currently working on **React**
+- 🌱 I’m currently learning **Express**
+- 👯 I’m looking to collaborate on **MERN stack**
+- 👨‍💻 All of my projects are available at [portfolio_link_to_be_attach]()
 - 💬 Ask me about **react, express, tailwind...**
 - 📫 How to reach me **hharshit8118@gmail.com**
-- 📄 Know about my experiences [attach_it_soon](attach_it_soon)
-- ⚡ Fun fact **I am running behind techs but they are fast than me...**
+- 📄 Here is my [portfolio_link_to_be_updated](), I have attached all my Skills, Projects, Achievements and Resume.
+- ⚡ Fun fact **I am running behind techs but they are faster than me...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
