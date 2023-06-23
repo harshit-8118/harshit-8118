@@ -6,11 +6,11 @@
 </h3>
 
 - 🔭 I’m currently working on **React**
-- 🌱 I’m currently practising on **Express, Node**
+- 🌱 I’m looking to learn **Java, Python**
 - 👯 I’m looking to collaborate on **MERN stack**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/harshit-8118/my_workings/" target="blank">here</a>.
 - 💬 Ask me about **react, express, tailwind...**
-- 📫 How to reach me **hharshit8118@gmail.com**
+- 📫 reach me with mail **hharshit8118@gmail.com**
 - 📄 Here is my <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>, I have attached all my Skills, Projects, Achievements and Resume.
 
 - ⚡ Fun fact **I am running behind techs but they are faster than me...**
