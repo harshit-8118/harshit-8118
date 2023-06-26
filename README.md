@@ -9,7 +9,7 @@
 - 🌱 I’m looking to learn **Java, Python**
 - 👯 I’m looking to collaborate on **MERN stack**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/harshit-8118/my_workings/" target="blank">here</a>.
-- 💬 Ask me about **react, express, tailwind...**
+- 💬 Ask me about **DSA, C++, problem solving, frontend, react, express, tailwind...**
 - 📫 reach me with mail **hharshit8118@gmail.com**
 - 📄 Here is my <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>, I have attached all my Skills, Projects, Achievements and Resume.
 
