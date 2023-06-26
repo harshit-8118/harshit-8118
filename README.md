@@ -189,3 +189,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
     />
   </a>
 </p>
+<br />
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-8118&show_icons=true&locale=en&layout=compact" /> </p>
