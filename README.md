@@ -5,11 +5,11 @@
   and Algorithms.
 </h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN**
 - 🌱 I’m looking to learn **Java, Python**
-- 👯 I’m looking to collaborate on **MERN stack**
+- 👯 I’m looking to collaborate on **MERN Stack**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/harshit-8118/my_workings/" target="blank">here</a>.
-- 💬 Ask me about **DSA, C++, problem solving, frontend, react, express, tailwind...**
+- 💬 Ask me about **DSA, C++, Problem Solving, Frontend, React, Express, Tailwind...**
 - 📫 reach me with mail **hharshit8118@gmail.com**
 - 📄 Here is my <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>, I have attached all my Skills, Projects, Achievements and Resume.
 
