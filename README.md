@@ -6,7 +6,7 @@
 </h3>
 
 - 🔭 I’m currently working on **MERN**
-- 🌱 I’m looking to learn **Java, Python**
+- 🌱 I’m looking to learn **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **MERN Stack**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/harshit-8118/my_workings/" target="blank">here</a>.
 - 💬 Ask me about **DSA, C++, Problem Solving, Frontend, React, Express, Tailwind...**
