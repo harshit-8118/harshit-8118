@@ -17,15 +17,10 @@
 - 📄 Watch my :point_right:	 <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>
 - ⚡ Fun fact **Techs are too fast should I race ? :grinning:**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/harshit-shukla-079952203" target="blank">LinkedIn</a>
-</p>
-<p align="left">
-  <a href="https://wa.me/<7052083375>" target="blank">Whatsapp</a>
-</p>
-<p align="left">
-  <a href="https://www.facebook.com/hharshit8118/" target="blank">Facebook</a>
-</p>
+- [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
+- [Whatsapp](https://wa.me/<7052083375>)
+- [Facebook](https://www.facebook.com/hharshit8118/)
+
 <h3 align="left">Check out my profiles:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/hharshit8118" target="blank">
