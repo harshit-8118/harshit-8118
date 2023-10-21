@@ -15,19 +15,21 @@
 - 📫 Reach me with mail **hharshit8118@gmail.com**
 - 📄 Watch my :point_right:	 <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>
 - ⚡ Fun fact **Techs are too fast should I race ? :grinning:**
-<h3 align="left">Connect with me:</h3>
+
+<h3>Connect with me:</h3>
 
 - [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
 - [Whatsapp](https://wa.me/<7052083375>)
 - [Facebook](https://www.facebook.com/hharshit8118/)
 
-<h3 align="left">Check out my profiles:</h3>
+<h3>Check out my profiles:</h3>
 
 - [Leetcode](https://www.leetcode.com/hharshit8118)
 - [Geeks for Geeks](https://auth.geeksforgeeks.org/user/hharshit8118/profile)
 - [Codechef](https://www.codechef.com/users/harsh_it_8118)
 - [Codeforces](https://codeforces.com/profile/harsh_it_8118)
 - [Hackerrank](https://www.hackerrank.com/hharshit8118)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
