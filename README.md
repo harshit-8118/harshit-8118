@@ -147,8 +147,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 <br />
 
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-8118&show_icons=true&locale=en&layout=compact" alt="harshit-8118" /></p>
-<p><img align="center"src="https://github-readme-stats.vercel.app/api?username=harshit-8118&show_icons=true&locale=en" alt="harshit-8118" /></p>
+<p><img decoding="async" loading="lazy" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-8118&show_icons=true&locale=en&layout=compact" alt="harshit-8118" /></p>
+<p><img decoding="async" loading="lazy" align="center"src="https://github-readme-stats.vercel.app/api?username=harshit-8118&show_icons=true&locale=en" alt="harshit-8118" /></p>
 </p>
 
 <br />
