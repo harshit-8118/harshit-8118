@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=798&color=34F7D4&center=true&multiline=true&repeat=true&random=false&width=600&height=106&lines=Experienced+MERN+Stack+Developer;DSA+%26+Machine+Learning+enthusiast..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=798&color=34F7D4&center=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Experienced+MERN+Stack+Developer;DSA+%26+Machine+Learning+enthusiast..." alt="Typing SVG" /></a>
 </h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="harshit"
-      width="800"
-      height="500" /></p>
+      width="700"
+      height="300" /></p>
 
 <!-- - 🔭 I’m currently working on **MERN** -->
 - 👯 I’m looking to collaborate on **MERN Stack**
@@ -167,4 +167,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 </p>
 <br />
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-8118&show_icons=true&locale=en&layout=compact" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-8118&show_icons=true&locale=en&layout=compact" alt="harshit-8118" /></p>
+<p><img align="right"src="https://github-readme-stats.vercel.app/api?username=harshit-8118&show_icons=true&locale=en" alt="harshit-8118" /></p>
