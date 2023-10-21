@@ -17,6 +17,7 @@
 - 📄 Watch my :point_right:	 <a href="https://hharshit8118.netlify.app" target="blank">portfolio</a>
 - ⚡ Fun fact **Techs are too fast should I race ? :grinning:**
 <h3 align="left">Connect with me:</h3>
+
 - [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
 - [Whatsapp](https://wa.me/<7052083375>)
 - [Facebook](https://www.facebook.com/hharshit8118/)
