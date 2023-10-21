@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=798&color=34F7D4&center=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Experienced+MERN+Stack+Developer;DSA+%26+Machine+Learning+enthusiast..." alt="Typing SVG" /></a>
@@ -23,31 +22,12 @@
 - [Facebook](https://www.facebook.com/hharshit8118/)
 
 <h3 align="left">Check out my profiles:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/hharshit8118" target="blank">
-    Leetcode
-  </a>
-</p>
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/hharshit8118/profile" target="blank">
-    Geeks for Geeks
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.codechef.com/users/harsh_it_8118" target="blank">
-    Codechef
-  </a>
-</p>
-<p align="left">
-  <a href="https://codeforces.com/profile/harsh_it_8118" target="blank">
-    Codeforces
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.hackerrank.com/hharshit8118" target="blank">
-    Hackerrank
-  </a>
-</p>
+
+- [Leetcode](https://www.leetcode.com/hharshit8118)
+- [Geeks for Geeks](https://auth.geeksforgeeks.org/user/hharshit8118/profile)
+- [Codechef](https://www.codechef.com/users/harsh_it_8118)
+- [Codeforces](https://codeforces.com/profile/harsh_it_8118)
+- [Hackerrank](https://www.hackerrank.com/hharshit8118)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
