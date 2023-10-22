@@ -19,7 +19,7 @@
 <h3><a href="#">&#x200B;</a>Connect with me:</h3>
 
 - [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
-- [Whatsapp](https://wa.me/<7052083375>)
+- [Whatsapp](https://wa.me/7052083375)
 - [Facebook](https://www.facebook.com/hharshit8118/)
 
 <h3><a href="#">&#x200B;</a>Check out my profiles:</h3>
@@ -169,3 +169,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 | Phone Directory | CPP & DSA     |  [Phone_Directory](https://github.com/harshit-8118/phone-directory) |
 | Codeforces Sol | COMPETITIVE PROGRAMMING     |  [Codeforces-edu solutions](https://github.com/harshit-8118/Codeforces-edu)|
 | CP-Algorithms | COMPETITIVE PROGRAMMING CONCEPTS      |  [CP Concepts](https://github.com/harshit-8118/Competitive-Programming)|
+
+<br />
+<br />
+
+![An image of @harshit8118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit2112)
