@@ -17,12 +17,14 @@
 - ⚡ Fun fact **Techs are too fast should I race ? :grinning:**
 
 <h3><a href="#">&#x200B;</a>Connect with me:</h3>
+<hr />
 
 - [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
 - [Whatsapp](https://wa.me/7052083375)
 - [Facebook](https://www.facebook.com/hharshit8118/)
 
 <h3><a href="#">&#x200B;</a>Check out my profiles:</h3>
+<hr />
 
 - [Leetcode](https://www.leetcode.com/hharshit8118)
 - [Geeks for Geeks](https://auth.geeksforgeeks.org/user/hharshit8118/profile)
@@ -31,6 +33,9 @@
 - [Hackerrank](https://www.hackerrank.com/hharshit8118)
 
 <h3 align="left"><a href="#">&#x200B;</a>Languages and Tools:</h3>
+
+<hr />
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
@@ -151,12 +156,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 <p><img decoding="async" loading="lazy" align="center"src="https://github-readme-stats.vercel.app/api?username=harshit-8118&show_icons=true&locale=en" alt="harshit-8118" /></p>
 </p>
 
-<br />
-
 <h3 align="left"><a href="#">&#x200B;</a>My workings:</h3>
 
+<hr />
+
 | Project        | Topics           | _Github_  |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------:| -----:|
 | MOVIEFLIXO Admin-Panel      | MERN |  [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel) |
 | MOVIEFLIXO Client     | MERN      |  [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master) |
 | Face Recognizer | MACHINE LEARNING      |  [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)|
@@ -170,7 +175,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 | Codeforces Sol | COMPETITIVE PROGRAMMING     |  [Codeforces-edu solutions](https://github.com/harshit-8118/Codeforces-edu)|
 | CP-Algorithms | COMPETITIVE PROGRAMMING CONCEPTS      |  [CP Concepts](https://github.com/harshit-8118/Competitive-Programming)|
 
-<br />
-<br />
+<h3 align="left"><a href="#">&#x200B;</a>Hactoberfest:</h3>
+<hr />
 
 ![An image of @harshit8118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit2112)
