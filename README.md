@@ -162,6 +162,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 
 | Project        | Topics           | _Github_  |
 | :------------- |:-------------:| -----:|
+| TaskIO      | MERN |  [TaskIO](https://github.com/harshit-8118/TaskIO) |
 | MOVIEFLIXO Admin-Panel      | MERN |  [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel) |
 | MOVIEFLIXO Client     | MERN      |  [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master) |
 | Face Recognizer | MACHINE LEARNING      |  [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)|
