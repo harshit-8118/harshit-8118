@@ -160,21 +160,21 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 
 <hr />
 
-| Project        | Topics           | _Github_  |
-| :------------- |:-------------:| -----:|
-| TaskIO      | MERN |  [TaskIO](https://github.com/harshit-8118/TaskIO) |
-| MOVIEFLIXO Admin-Panel      | MERN |  [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel) |
-| MOVIEFLIXO Client     | MERN      |  [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master) |
-| Face Recognizer | MACHINE LEARNING      |  [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)|
-| Number Recognizer | MACHINE LEARNING      |  [Number Recognizer](https://github.com/harshit-8118/NumberRecognizer) |
-| Movie Recommendation | MACHINE LEARNING      |  [Movie Recommendation](https://github.com/harshit-8118/MovieRecommendation) |
-| News-Site | PHP      |  [NEWS_SITE](https://github.com/harshit-8118/NEWS_PROJECT) |
-| Sign-up form | PHP     |  [Signup Validation](https://github.com/harshit-8118/SignUpForm)|
-| Portfolio | REACT      |  [Portfolio](https://github.com/harshit-8118/portfolio) |
-| UI Design | TAILWIND      |  [Tailwind Projects](https://github.com/harshit-8118/TailwindCss) |
-| Phone Directory | CPP & DSA     |  [Phone_Directory](https://github.com/harshit-8118/phone-directory) |
-| Codeforces Sol | COMPETITIVE PROGRAMMING     |  [Codeforces-edu solutions](https://github.com/harshit-8118/Codeforces-edu)|
-| CP-Algorithms | COMPETITIVE PROGRAMMING CONCEPTS      |  [CP Concepts](https://github.com/harshit-8118/Competitive-Programming)|
+| Project        | Topics           | _Github_  | Hoisted |
+| :------------- |:-------------:| -----:| ----: |
+| TaskIO      | MERN |  [TaskIO](https://github.com/harshit-8118/TaskIO) | [mr-task](https://mr-task8.netlify.app) |
+| MOVIEFLIXO Admin-Panel      | MERN |  [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel) |  [mv-admin](https://movieflixo-admin.netlify.app) |
+| MOVIEFLIXO Client     | MERN      |  [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master) | [movieflixo](https://movieflixo.netlify.app) |
+| Face Recognizer | MACHINE LEARNING      |  [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)| _ |
+| Number Recognizer | MACHINE LEARNING      |  [Number Recognizer](https://github.com/harshit-8118/NumberRecognizer) | _ |
+| Movie Recommendation | MACHINE LEARNING      |  [Movie Recommendation](https://github.com/harshit-8118/MovieRecommendation) | _ |
+| News-Site | PHP      |  [NEWS_SITE](https://github.com/harshit-8118/NEWS_PROJECT) | _ |
+| Sign-up form | PHP     |  [Signup Validation](https://github.com/harshit-8118/SignUpForm)| _ |
+| Portfolio | REACT      |  [Portfolio](https://github.com/harshit-8118/portfolio) |  [harshit-shukla](https://hharshit8118.netlify.app) |
+| UI Design | TAILWIND      |  [Tailwind Projects](https://github.com/harshit-8118/TailwindCss) | _ |
+| Phone Directory | CPP & DSA     |  [Phone_Directory](https://github.com/harshit-8118/phone-directory) | _ |
+| Codeforces Sol | COMPETITIVE PROGRAMMING     |  [Codeforces-edu solutions](https://github.com/harshit-8118/Codeforces-edu)| _ |
+| CP-Algorithms | COMPETITIVE PROGRAMMING CONCEPTS      |  [CP Concepts](https://github.com/harshit-8118/Competitive-Programming)| _ |
 
 <h3 align="left"><a href="#">&#x200B;</a>Hactoberfest:</h3>
 <hr />
