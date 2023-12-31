@@ -4,8 +4,8 @@
 </h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="harshit"
-      width="700"
-      height="300" /></p>
+      width="250"
+      height="100" /></p>
 
 <!-- - 🔭 I’m currently working on **MERN** -->
 - 👯 I’m looking to collaborate on **MERN Stack**
