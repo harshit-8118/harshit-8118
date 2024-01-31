@@ -160,7 +160,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 
 <hr />
 
-| Project        | Topics           | _Github_  | Hoisted |
+| Project        | Tools & Techs           | _Github_  | Hoisted |
 | :------------- |:-------------:| -----:| ----: |
 | Synthetic MNIST Data Generation      | GAN & DCGAN |  [mnist_data_generation](https://github.com/harshit-8118/Synthetic-MNIST-Data-Generation) | _ |
 | Image Captioning BOT      | FLASK & ML |  [img_captioning](https://github.com/harshit-8118/Image_Captioning) | _ |
