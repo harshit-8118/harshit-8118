@@ -162,6 +162,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/12
 
 | Project        | Topics           | _Github_  | Hoisted |
 | :------------- |:-------------:| -----:| ----: |
+| Synthetic MNIST Data Generation      | GAN & DCGAN |  [mnist_data_generation](https://github.com/harshit-8118/Synthetic-MNIST-Data-Generation) | _ |
+| Image Captioning BOT      | FLASK & ML |  [img_captioning](https://github.com/harshit-8118/Image_Captioning) | _ |
 | TaskIO      | MERN |  [TaskIO](https://github.com/harshit-8118/TaskIO) | [mr-task](https://mr-task8.netlify.app) |
 | MOVIEFLIXO Admin-Panel      | MERN |  [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel) |  [mv-admin](https://movieflixo-admin.netlify.app) |
 | MOVIEFLIXO Client     | MERN      |  [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master) | [movieflixo](https://movieflixo.netlify.app) |
