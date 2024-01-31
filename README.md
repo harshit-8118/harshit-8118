@@ -1,11 +1,11 @@
 <h1 align="center"><a href="#">&#x200B;</a>Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=798&color=34F7D4&center=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Experienced+MERN+Stack+Developer;DSA+%26+Machine+Learning+enthusiast..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=800&pause=1000&center=true&multiline=true&repeat=false&random=false&width=600&height=70&lines=Experience+in+MERN+Stack+Development;Proficient+in+Machine+Learning+and+DSA" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="harshit"
-      width="250"
-      height="100" /></p>
+      width="200"
+      height="70" /></p>
 
 <!-- - 🔭 I’m currently working on **MERN** -->
 - 👯 I’m looking to collaborate on **MERN Stack**
@@ -28,6 +28,7 @@
 
 - [Leetcode](https://www.leetcode.com/hharshit8118)
 - [Geeks for Geeks](https://auth.geeksforgeeks.org/user/hharshit8118/profile)
+- [Kaggle](https://www.kaggle.com/harshit8118)
 - [Codechef](https://www.codechef.com/users/harsh_it_8118)
 - [Codeforces](https://codeforces.com/profile/harsh_it_8118)
 - [Hackerrank](https://www.hackerrank.com/hharshit8118)
