@@ -19,9 +19,7 @@
 <h3><a href="#">&#x200B;</a>Connect with me:</h3>
 <hr />
 
-- [LinkedIn](https://linkedin.com/in/harshit-shukla-079952203)
-- [Whatsapp](https://wa.me/7052083375)
-- [Facebook](https://www.facebook.com/hharshit8118/)
+- [LinkedIn](https://www.linkedin.com/in/harshit2116/)
 
 <h3><a href="#">&#x200B;</a>Check out my profiles:</h3>
 <hr />
